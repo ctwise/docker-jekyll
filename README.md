@@ -1,4 +1,4 @@
-Jekyll 3.0 beta image.
+Jekyll 3.0 image.
 
 Working directory is /app.
 
